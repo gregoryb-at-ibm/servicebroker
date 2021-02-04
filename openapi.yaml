@@ -15,7 +15,7 @@ info:
     name: Open Service Broker API
     url: https://www.openservicebrokerapi.org/
     email: open-service-broker-api@googlegroups.com
-  version: 1.0.0
+  version: 1.0.1
 
 servers:
   - url: http://example.com
